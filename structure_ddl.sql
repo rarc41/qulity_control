@@ -1,4 +1,4 @@
-DROP DATABASE IF EXISTS quality_control;
+DROP DATABASE IF EXISTS quality_control; -- CUIDADO!! esta lines verifica si existe un base de datos creada con  el nombre qualiyty_control, si exista la borrara
 
 CREATE DATABASE quality_control;
 
